@@ -23,8 +23,8 @@ I have taken few Dummy contacts from online and added default in my databases.
 
 <br/>
 <br/>
-<b>How to Run</b>
-<br/>
+<b>Step to Run the project</b>
+<br/><br/>
 1.Download <b>my_project.zip</b> file from above<br/> 
 2.Run <b>XAMP</b> server <br/>
 3. Run <b>Index.php</b> file
