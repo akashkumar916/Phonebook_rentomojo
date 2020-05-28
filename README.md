@@ -6,9 +6,9 @@
   <li>Add a contact
 <li> Remove a contact
 <li> Update a contact 
-    <li>Search Contact
-  <li>View Contact : <i>Addition</i/>
-  <li>Edit a Contact : <i>Addition</i>
+    <li>Search Contact : Basis on only first name
+  <li>View Contact  <i>Addition</i/>
+  <li>Edit a Contact  <i>Addition</i>
 
   <ul/>
 <br/>
