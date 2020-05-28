@@ -1,6 +1,6 @@
 # Phonebook Web App
 
-## Check My Live Working Model :- <a href="http://www.lpubook.ml">lpubook.ml</a>
+## Check My Live Working Model :- <a href="http://www.lpubook.ml">www.lpubook.ml</a>
 ### Features in my Web App
 <ul>
   <li>Add a contact
