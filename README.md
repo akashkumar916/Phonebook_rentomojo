@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-### About Porject
+### About Project
 I have Deployed my model at <b>000webhost.com</b> and I have used <b>Phpmyadmin</b> software for making my databases.
   <br/>
 I have taken few Dummy contacts from online and added default in my databases.
